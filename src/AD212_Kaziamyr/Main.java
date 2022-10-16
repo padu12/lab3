@@ -3,7 +3,7 @@ package AD212_Kaziamyr;
 import java.util.Scanner;
 /*
  * @author Bohdan Kaziamyr
- * @version 9 Oct 2022
+ * @version 16 Oct 2022
  */
 public class Main {
 
